@@ -82,3 +82,16 @@ $ gem install sass
 ```
 $ npm install gulp-sass gulp-sourcemaps --save-dev
 ```
+
+## TypeScript
+```
+$ npm install typescript -g
+```
+```
+$ apm install atom-typescript
+```
+
+To test typescript
+```
+$ tsc app/filename
+```
